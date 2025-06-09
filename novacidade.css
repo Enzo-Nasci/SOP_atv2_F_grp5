@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+    top: 0;
+    background-color: rgb(95, 179, 95);
+}
+header{
+    text-align: center;
+    text-decoration: underline;
+}
+#tela{
+    margin: 0 auto;
+    padding: 20px;
+    width: 240px;
+    height: 420px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    border-color: blue;
+    text-align: center;
+}
+
+button{
+    margin-left: 40px;
+    background-color: rgb(83, 158, 83);
+    border-radius: 20px;
+}
